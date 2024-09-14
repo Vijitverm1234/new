@@ -31,7 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijitverm1234&layout=compact)](https://github.com/Vijitverm1234)
 </center>
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 
 
 ![CPP](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) 
