@@ -27,11 +27,21 @@
  ```
 <center>
   
- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Vijitverm1234)](https://github.com/Vijitverm1234)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijitverm1234&layout=compact)](https://github.com/Vijitverm1234)
 </center>
 
+![](https://raw.githubusercontent.com/vn7n24fzkq/Vijitverm1234/master/profile-summary-card-output/solarized/0-profile-details.svg)
+
+<div align="center">
+	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijitverm1234&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vijitverm1234&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijitverm1234&theme=nord_bright&)
+	
+</div> 
+
+      
 ## 💻 Tech Stack:
 
 
